@@ -1,16 +1,20 @@
-### Quick Javascript project build to test the Pokemon API.
+# Quick Javascript project build to test the Pokemon API.
 
 Aimed to be a good first project or those looking to try out something with Restful API's.
 
+## Setup
+
 Create 3 files
 
-- pokemon.html,
-- pokemon.js,
-- and styles.css
+- `pokemon.html`,
+- `pokemon.js`,
+- and `styles.css`
 
 Add the code from the three files.
 
 You can checkout my code and build on it if you like, or else copy paste into your own program.
+
+### Specfiications:
 
 The basic pokemon that you can put in the box are listed in the documentation here:
 https://pokeapi.co
@@ -21,7 +25,8 @@ https://pokeapi.co/api/v2/pokemon
 Full doco for the Pokemon API is listed here:
 https://pokeapi.co
 
-Future Ideas:
+### Future Ideas:
+
 Take pokemon name and accept all case, convert to lowercase on input/submit.
 Change formatting of the page so that its more dynamic/CSS style.
 Display:
