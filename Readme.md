@@ -14,7 +14,7 @@ Add the code from the three files.
 
 You can checkout my code and build on it if you like, or else copy paste into your own program.
 
-### Specfiications:
+## Specifications:
 
 The basic pokemon that you can put in the box are listed in the documentation here:
 https://pokeapi.co
