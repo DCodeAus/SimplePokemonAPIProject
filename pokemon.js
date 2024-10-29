@@ -18,6 +18,7 @@ form.addEventListener("submit", (event) => {
       name.textContent = newPokemon.name;
       div.appendChild(name);
       div.appendChild(image);
+      //div.appendChild(pokemonName);
       root.appendChild(div);
 
       // another image option:
