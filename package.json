@@ -1,0 +1,11 @@
+{
+  "name": "simplepokemonapiproject",
+  "version": "1.0.0",
+  "description": "PokemonApiProject",
+  "main": "pokemon.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "DCodes",
+  "license": "ISC"
+}
