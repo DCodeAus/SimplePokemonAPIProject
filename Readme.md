@@ -35,8 +35,9 @@ Display:
 - Random pokemon
 - Add Berries button
 - Maybe a Pokedex lookup
-
-#Inspired by another Pokemon project found online for Hacktoberfest, this is barebones and would be a great starter project.
+- Will need to change the API address
+  options here https://pokeapi.co/api/v2/
+  #Inspired by another Pokemon project found online for Hacktoberfest, this is barebones and would be a great starter project.
 
 As per most JS packages if you are going to further develop this, its worth running:
 npm init
